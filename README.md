@@ -2,5 +2,5 @@
 learn golang
 
 ## 目录
-- gin 
-- sqlite3
+- gin
+- sqlite3 
